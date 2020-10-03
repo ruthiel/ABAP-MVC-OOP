@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_MVC</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>P</LANGU>
+    <DESCRIPT>Interface for MVC</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_MVC</CLSNAME>
+     <CMPNAME>EXECUTE</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Start the controller</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_MVC</CLSNAME>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Get data from database</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_MVC</CLSNAME>
+     <CMPNAME>SHOW_DATA</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Show selected data</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
